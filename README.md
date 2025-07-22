@@ -3,5 +3,5 @@
 
 This notebook implements a binomial pricing model for American call options, inspired by Battauz & Pratelli (2004), including a discrete dividend and optional exogenous jump.
 
-🔧 Technologies: Python, Jupyter Notebook  
+🔧 Technologies: Python (NumPy, Matplotlib), Jupyter Notebook  
 📈 Features: Snell envelope, early exercise boundary, backward induction
